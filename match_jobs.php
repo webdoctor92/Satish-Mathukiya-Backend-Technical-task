@@ -74,6 +74,5 @@ $company_li.='<div>
 </div>';
 
 $company_li.="</ul>";
-
 echo $company_li;
 ?>
